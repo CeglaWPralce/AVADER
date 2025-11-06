@@ -1,0 +1,47 @@
+Vivado Simulator v2025.1.0
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved.
+Copyright 2022-2025 Advanced Micro Devices, Inc. All Rights Reserved.
+Running: C:/Xilinx/2025.1/Vivado/bin/unwrapped/win64.o/xelab.exe --incr --debug typical --relax --mt 2 -L xil_defaultlib -L unisims_ver -L unimacro_ver -L secureip --snapshot tb_or_and_tree_behav xil_defaultlib.tb_or_and_tree xil_defaultlib.glbl -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+Pass Through NonSizing Optimizer
+Completed static elaboration
+Starting simulation data flow analysis
+WARNING: [XSIM 43-4099] "C:/Users/wikto/Desktop/AVADER/INTRO/INTRO/INTRO.srcs/sources_1/imports/RTL/or_and_tree.v" Line 4. Module or_and_tree(N=2) doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/wikto/Desktop/AVADER/INTRO/INTRO/INTRO.srcs/sources_1/imports/RTL/or_and_tree.v" Line 2. Module or2 doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/wikto/Desktop/AVADER/INTRO/INTRO/INTRO.srcs/sources_1/imports/RTL/or_and_tree.v" Line 4. Module or_and_tree(N=4) doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/wikto/Desktop/AVADER/INTRO/INTRO/INTRO.srcs/sources_1/imports/RTL/or_and_tree.v" Line 2. Module or2 doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/wikto/Desktop/AVADER/INTRO/INTRO/INTRO.srcs/sources_1/imports/RTL/or_and_tree.v" Line 2. Module or2 doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/wikto/Desktop/AVADER/INTRO/INTRO/INTRO.srcs/sources_1/imports/RTL/or_and_tree.v" Line 1. Module and2 doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/wikto/Desktop/AVADER/INTRO/INTRO/INTRO.srcs/sources_1/imports/RTL/or_and_tree.v" Line 4. Module or_and_tree_default doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/wikto/Desktop/AVADER/INTRO/INTRO/INTRO.srcs/sources_1/imports/RTL/or_and_tree.v" Line 2. Module or2 doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/wikto/Desktop/AVADER/INTRO/INTRO/INTRO.srcs/sources_1/imports/RTL/or_and_tree.v" Line 2. Module or2 doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/wikto/Desktop/AVADER/INTRO/INTRO/INTRO.srcs/sources_1/imports/RTL/or_and_tree.v" Line 2. Module or2 doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/wikto/Desktop/AVADER/INTRO/INTRO/INTRO.srcs/sources_1/imports/RTL/or_and_tree.v" Line 2. Module or2 doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/wikto/Desktop/AVADER/INTRO/INTRO/INTRO.srcs/sources_1/imports/RTL/or_and_tree.v" Line 1. Module and2 doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/wikto/Desktop/AVADER/INTRO/INTRO/INTRO.srcs/sources_1/imports/RTL/or_and_tree.v" Line 1. Module and2 doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/wikto/Desktop/AVADER/INTRO/INTRO/INTRO.srcs/sources_1/imports/RTL/or_and_tree.v" Line 2. Module or2 doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/wikto/Desktop/AVADER/INTRO/INTRO/INTRO.srcs/sources_1/imports/RTL/or_and_tree.v" Line 4. Module or_and_tree(N=2) doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/wikto/Desktop/AVADER/INTRO/INTRO/INTRO.srcs/sources_1/imports/RTL/or_and_tree.v" Line 2. Module or2 doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/wikto/Desktop/AVADER/INTRO/INTRO/INTRO.srcs/sources_1/imports/RTL/or_and_tree.v" Line 4. Module or_and_tree(N=4) doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/wikto/Desktop/AVADER/INTRO/INTRO/INTRO.srcs/sources_1/imports/RTL/or_and_tree.v" Line 2. Module or2 doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/wikto/Desktop/AVADER/INTRO/INTRO/INTRO.srcs/sources_1/imports/RTL/or_and_tree.v" Line 2. Module or2 doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/wikto/Desktop/AVADER/INTRO/INTRO/INTRO.srcs/sources_1/imports/RTL/or_and_tree.v" Line 1. Module and2 doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/wikto/Desktop/AVADER/INTRO/INTRO/INTRO.srcs/sources_1/imports/RTL/or_and_tree.v" Line 4. Module or_and_tree_default doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/wikto/Desktop/AVADER/INTRO/INTRO/INTRO.srcs/sources_1/imports/RTL/or_and_tree.v" Line 2. Module or2 doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/wikto/Desktop/AVADER/INTRO/INTRO/INTRO.srcs/sources_1/imports/RTL/or_and_tree.v" Line 2. Module or2 doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/wikto/Desktop/AVADER/INTRO/INTRO/INTRO.srcs/sources_1/imports/RTL/or_and_tree.v" Line 2. Module or2 doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/wikto/Desktop/AVADER/INTRO/INTRO/INTRO.srcs/sources_1/imports/RTL/or_and_tree.v" Line 2. Module or2 doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/wikto/Desktop/AVADER/INTRO/INTRO/INTRO.srcs/sources_1/imports/RTL/or_and_tree.v" Line 1. Module and2 doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/wikto/Desktop/AVADER/INTRO/INTRO/INTRO.srcs/sources_1/imports/RTL/or_and_tree.v" Line 1. Module and2 doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/wikto/Desktop/AVADER/INTRO/INTRO/INTRO.srcs/sources_1/imports/RTL/or_and_tree.v" Line 2. Module or2 doesn't have a timescale but at least one module in design has a timescale.
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling module xil_defaultlib.or2
+Compiling module xil_defaultlib.or_and_tree(N=2)
+Compiling module xil_defaultlib.and2
+Compiling module xil_defaultlib.or_and_tree(N=4)
+Compiling module xil_defaultlib.or_and_tree_default
+Compiling module xil_defaultlib.tb_or_and_tree
+Compiling module xil_defaultlib.glbl
+Built simulation snapshot tb_or_and_tree_behav

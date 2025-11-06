@@ -1,0 +1,10 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/wikto/Desktop/AVADER/INTRO/INTRO/INTRO.srcs/sources_1/imports/RTL/or_and_tree.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module and2
+INFO: [VRFC 10-311] analyzing module or2
+INFO: [VRFC 10-311] analyzing module or_and_tree
+WARNING: [VRFC 10-9042] illegal elaboration system task error [C:/Users/wikto/Desktop/AVADER/INTRO/INTRO/INTRO.srcs/sources_1/imports/RTL/or_and_tree.v:14]
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/wikto/Desktop/AVADER/INTRO/INTRO/INTRO.srcs/sim_1/imports/RTL/tb_or_and_tree.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module tb_or_and_tree
+WARNING: [VRFC 10-2938] 'X2' is already implicitly declared on line 6 [C:/Users/wikto/Desktop/AVADER/INTRO/INTRO/INTRO.srcs/sim_1/imports/RTL/tb_or_and_tree.v:11]
+WARNING: [VRFC 10-2938] 'X4' is already implicitly declared on line 7 [C:/Users/wikto/Desktop/AVADER/INTRO/INTRO/INTRO.srcs/sim_1/imports/RTL/tb_or_and_tree.v:12]
+WARNING: [VRFC 10-2938] 'X8' is already implicitly declared on line 8 [C:/Users/wikto/Desktop/AVADER/INTRO/INTRO/INTRO.srcs/sim_1/imports/RTL/tb_or_and_tree.v:13]

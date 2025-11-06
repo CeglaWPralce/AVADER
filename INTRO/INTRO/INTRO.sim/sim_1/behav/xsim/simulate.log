@@ -1,0 +1,15 @@
+Time resolution is 1 ps
+=== TESTY OR na nieparzystych poziomach ===
+N=8: X=11111111 Y=11111111 → Z=1 (oczekiwano 1)
+N=8: X=00000000 Y=11111111 → Z=0 (oczekiwano 0)
+N=8: X=11111111 Y=00000000 → Z=0 (oczekiwano 0)
+N=8: X=10101010 Y=10101010 → Z=1 (oczekiwano 0)
+N=8: X=00000001 Y=00000001 → Z=0 (oczekiwano 0)
+N=8: X=10000000 Y=10000000 → Z=0 (oczekiwano 0)
+N=8: X=11110000 Y=11110000 → Z=1 (oczekiwano 0)
+N=8: X=01010101 Y=01010101 → Z=1 (oczekiwano 0)
+N=4: X=1111 Y=1111 → Z=1 (oczekiwano 1)
+N=4: X=0101 Y=0101 → Z=1 (oczekiwano 1)
+N=2: X=11 Y=11 → Z=1 (oczekiwano 1)
+N=2: X=01 Y=01 → Z=1 (oczekiwano 0)
+$finish called at time : 22 ns : File "C:/Users/wikto/Desktop/AVADER/INTRO/INTRO/INTRO.srcs/sim_1/imports/RTL/tb_or_and_tree.v" Line 68

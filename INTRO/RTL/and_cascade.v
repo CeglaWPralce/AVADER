@@ -15,7 +15,7 @@ module and_cascade #(
     parameter N = 8  // liczba wejść, N >= 2
 )(
     input  [N-1:0] in,
-    output         y
+    output y
 );
 
     // Sprawdzenie N >= 2

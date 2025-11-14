@@ -1,7 +1,0 @@
-0.7
-2020.2
-May 22 2025
-00:13:55
-C:/Users/wikto/Desktop/AVADER/INTRO/INTRO/INTRO.sim/sim_1/behav/xsim/glbl.v,1741209010,verilog,,,,glbl,,,,,,,,
-C:/Users/wikto/Desktop/AVADER/INTRO/INTRO/INTRO.srcs/sim_1/imports/RTL/tb_or_and_tree.v,1762429674,verilog,,,,tb_or_and_tree,,,../../../../../../../../../../Xilinx/2025.1/Vivado/data/rsb/busdef,,,,,
-C:/Users/wikto/Desktop/AVADER/INTRO/INTRO/INTRO.srcs/sources_1/imports/RTL/or_and_tree.v,1762429718,verilog,,C:/Users/wikto/Desktop/AVADER/INTRO/INTRO/INTRO.srcs/sim_1/imports/RTL/tb_or_and_tree.v,,and2;or2;or_and_tree,,,../../../../../../../../../../Xilinx/2025.1/Vivado/data/rsb/busdef,,,,,
